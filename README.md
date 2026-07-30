@@ -1,37 +1,58 @@
-# 🚀 AlgoShelf
+# AlgoShelf
 
-> Learn Sorting Algorithms Visually with Interactive Animations
+**Learn Data Structures & Algorithms through interactive visualizations, animations, and intuitive explanations.**
 
-AlgoShelf is an interactive sorting algorithm visualizer built using **React**, **Vite**, and **Tailwind CSS**. It helps students understand how sorting algorithms work by showing every comparison, swap, pass, and pseudocode step in real time.
+AlgoShelf is an educational platform designed to help students build a strong intuition for algorithms instead of memorizing them. Every topic combines animated visualizations, step-by-step execution, pseudocode, complexity analysis, and interactive controls to make learning engaging and practical.
 
 ---
 
 ## ✨ Features
 
-- 🎲 Generate random arrays
-- 📊 Visualize sorting animations
-- 📜 Live pseudocode highlighting
-- ⚡ Current action tracking
-- 🔄 Pass counter
-- 📈 Time complexity information
-- 📌 Algorithm properties
-- 📖 About each algorithm
-- 🎚️ Adjustable animation speed
-- 📏 Adjustable array size
-- 🌙 Modern responsive dark UI
+- 📚 Interactive algorithm visualizations
+- 🎬 Step-by-step execution
+- 📖 Pseudocode with live highlighting
+- 📊 Time & Space Complexity analysis
+- 📈 Real-time statistics and progress tracking
+- 🎨 Clean and responsive interface
+- ⚡ Built with React, Vite, Tailwind CSS & Framer Motion
 
 ---
 
-## 🧠 Algorithms Implemented
+## 🚀 Current Modules
 
-| Algorithm | Best | Average | Worst | Space | Stable |
-|-----------|:----:|:-------:|:-----:|:-----:|:------:|
-| Bubble Sort | O(n) | O(n²) | O(n²) | O(1) | ✅ |
-| Selection Sort | O(n²) | O(n²) | O(n²) | O(1) | ❌ |
-| Insertion Sort | O(n) | O(n²) | O(n²) | O(1) | ✅ |
-| Merge Sort | O(n log n) | O(n log n) | O(n log n) | O(n) | ✅ |
-| Quick Sort | O(n log n) | O(n log n) | O(n²) | O(log n) | ❌ |
-| Heap Sort | O(n log n) | O(n log n) | O(n log n) | O(1) | ❌ |
+### ✅ Sorting Algorithms
+
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+- Heap Sort
+
+Each sorting algorithm includes:
+
+- Interactive visualization
+- Step-by-step animation
+- Pseudocode highlighting
+- Complexity analysis
+- Statistics dashboard
+- Progress tracking
+- Educational explanations
+
+---
+
+## 🛣️ Roadmap
+
+- [ ] Searching Algorithms
+- [ ] Arrays
+- [ ] Linked Lists
+- [ ] Stacks & Queues
+- [ ] Trees
+- [ ] Graph Algorithms
+- [ ] Dynamic Programming
+- [ ] Greedy Algorithms
+- [ ] Backtracking
+- [ ] System Design Learning Modules
 
 ---
 
@@ -39,95 +60,20 @@ AlgoShelf is an interactive sorting algorithm visualizer built using **React**, 
 
 - React
 - Vite
-- JavaScript (ES6+)
 - Tailwind CSS
-- CSS Animations
+- Framer Motion
+- JavaScript (ES6+)
 
 ---
 
-## 📷 Screenshots
+## 📌 Project Status
 
-### Home
+🚧 **AlgoShelf V2 is actively under development.**
 
-_Add a screenshot here_
-
-### Bubble Sort
-
-_Add a screenshot here_
-
-### Merge Sort
-
-_Add a screenshot here_
-
-### Pseudocode Synchronization
-
-_Add a screenshot here_
+The Sorting Algorithms module is complete, with additional DSA modules being added incrementally.
 
 ---
 
-## 🚀 Getting Started
+## ⭐ Future Vision
 
-Clone the repository
-
-```bash
-git clone https://github.com/your-username/AlgoShelf.git
-```
-
-Go to the project directory
-
-```bash
-cd AlgoShelf
-```
-
-Install dependencies
-
-```bash
-npm install
-```
-
-Start the development server
-
-```bash
-npm run dev
-```
-
----
-
-## 🎯 Future Improvements
-
-- Searching Algorithms
-- Graph Algorithms
-- Tree Visualizer
-- Custom Array Input
-- Sound Effects
-- Light Theme
-
----
-
-## 📚 What I Learned
-
-Building AlgoShelf helped me understand:
-
-- Sorting algorithms
-- Time & Space Complexity
-- React State Management
-- Component Design
-- UI/UX Principles
-- Algorithm Visualization
-- Animation Synchronization
-
----
-
-## 👩‍💻 Author
-
-**Gauri Gupta**
-
-B.Tech Electrical Engineering (IIoT)
-
-Passionate about Software Development, AI and Data Structures & Algorithms.
-
----
-
-## ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
+AlgoShelf aims to become a comprehensive platform for mastering Data Structures and Algorithms through intuitive visual learning, making complex concepts accessible for students, interview preparation, and self-paced learning.
