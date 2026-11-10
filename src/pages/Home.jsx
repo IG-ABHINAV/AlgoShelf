@@ -1,6 +1,6 @@
 import Navbar from "../components/home/Navbar";
 import Hero from "../components/home/Hero";
-import Bookshelf from "../components/home/Bookshelf";
+import Bookshelf from "../components/home/BookShelf";
 import { useEffect } from "react";
 
 export default function Home() {
