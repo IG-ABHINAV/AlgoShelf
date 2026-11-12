@@ -5,7 +5,6 @@ Thank you for your interest in contributing to AlgoShelf! We welcome developers 
 ## Getting Started
 
 ### Prerequisites
-
 - Node.js
 - npm
 - Git
@@ -40,30 +39,41 @@ Thank you for your interest in contributing to AlgoShelf! We welcome developers 
 
 ## How to Contribute
 
-1. Check the repository's Issues.
-2. Choose an issue you would like to work on.
-3. Comment on the issue before starting so the mentor can coordinate assignments.
-4. Create a separate branch:
+1. Visit the repository's **Issues** tab.
+2. Browse the open issues and choose a task that matches your interests and experience.
+3. Read the issue description and check whether someone is already working on it.
+4. Comment on the GitHub issue to express your interest.
+5. Request assignment through the AlgoShelf Discord project channel using `/assign`, as instructed by the event organisers.
+6. Wait for confirmation before starting work.
+7. Create a separate branch:
 
    ```bash
    git checkout -b feature/your-feature-name
    ```
 
-5. Make your changes and test them.
-6. Commit your work:
+8. Make your changes and test them.
+9. Commit your work:
 
    ```bash
    git add .
    git commit -m "Add: describe your changes"
    ```
 
-7. Push your branch:
+10. Push your branch:
 
    ```bash
    git push origin feature/your-feature-name
    ```
 
-8. Open a Pull Request against the main branch.
+11. Open a Pull Request against the `main` branch and link the related issue.
+
+## Understanding Issue Labels
+
+- `good first issue` – Tasks suitable for beginners.
+- `enhancement` – New features or improvements.
+- `bug` – Issues involving something that is not working correctly.
+- `documentation` – README, guides and documentation improvements.
+- `help wanted` – Tasks where additional contributors are welcome.
 
 ## Contribution Guidelines
 
@@ -74,6 +84,7 @@ Thank you for your interest in contributing to AlgoShelf! We welcome developers 
 - Include screenshots or explanations for UI changes.
 - Do not submit unfinished or non-functional features.
 - Communicate with the mentor if you need clarification.
+- Avoid working on an issue that has already been assigned to another contributor.
 
 ## Areas Open for Contribution
 
@@ -81,13 +92,13 @@ Thank you for your interest in contributing to AlgoShelf! We welcome developers 
 - Arrays and Linked Lists
 - Stacks and Queues
 - Trees and Graphs
-- UI/UX improvements
+- UI/UX and responsive design
 - Bug fixes and documentation
 
 Please check existing issues before starting work to avoid duplicate contributions.
 
 ## Need Help?
 
-If you have questions, reach out in the AlgoShelf Discord project channel or open a discussion with the project mentor.
+If you have questions, reach out in the AlgoShelf Discord project channel or contact the project mentor.
 
 Happy Contributing! 🚀
