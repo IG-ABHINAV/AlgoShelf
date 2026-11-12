@@ -133,7 +133,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
 ### Book Shelf
 
-<img width="744" height="848" alt="BookShelf" src="https://github.com/user-attachments/assets/62fe6099-94ef-4f84-a9f2-a5d2e516c4ae" />
+<img width="1043" height="852" alt="image" src="https://github.com/user-attachments/assets/9afffaa1-d3f6-483c-8175-cca2aa7b0f4d" />
 
 ### Sorting Module
 
