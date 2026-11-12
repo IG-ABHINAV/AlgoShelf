@@ -1,5 +1,5 @@
 ![React](https://img.shields.io/badge/React-19-blue)
-![Vite](https://img.shields.io/badge/Vite-7-purple)
+![Vite](https://img.shields.io/badge/Vite-8-purple)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-38BDF8)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
@@ -7,33 +7,27 @@
 
 **Learn Data Structures & Algorithms through interactive visualizations, animations, and intuitive explanations.**
 
-AlgoShelf is an educational platform designed to help students build a strong intuition for algorithms instead of memorizing them. Every topic combines animated visualizations, step-by-step execution, pseudocode, complexity analysis, and interactive controls to make learning engaging and practical.
-
----
+AlgoShelf is an educational platform designed to help students understand Data Structures and Algorithms through visual learning rather than memorisation. It combines interactive visualizations, step-by-step execution, pseudocode, complexity analysis, and educational explanations.
 
 ## 🌐 Live Demo
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge)](https://algo-shelf.vercel.app)
 
-👉 **https://algo-shelf.vercel.app**
-
----
+👉 https://algo-shelf.vercel.app
 
 ## ✨ Features
 
 - 📚 Interactive algorithm visualizations
-- 🎬 Step-by-step execution
-- 📖 Pseudocode with live highlighting
-- 📊 Time & Space Complexity analysis
-- 📈 Real-time statistics and progress tracking
-- 🎨 Clean and responsive interface
-- ⚡ Built with React, Vite, Tailwind CSS & Framer Motion
+- 🎬 Step-by-step algorithm execution
+- 📖 Pseudocode and explanations
+- 📊 Time and space complexity analysis
+- 📈 Execution statistics and progress information
+- 🎨 Responsive user interface
+- ⚡ Animated interactions using Framer Motion
 
----
+## 📚 Project Modules and Progress
 
-## 🚀 Current Modules
-
-### ✅ Sorting Algorithms
+### ✅ Sorting Algorithms — Implemented
 
 - Bubble Sort
 - Selection Sort
@@ -42,50 +36,94 @@ AlgoShelf is an educational platform designed to help students build a strong in
 - Quick Sort
 - Heap Sort
 
-Each sorting algorithm includes:
+The Sorting module includes interactive visualizations, execution controls, pseudocode, complexity analysis, and educational explanations.
 
-- Interactive visualization
-- Step-by-step animation
-- Pseudocode highlighting
-- Complexity analysis
-- Statistics dashboard
-- Progress tracking
-- Educational explanations
+### 🚧 Modules Open for Development
 
----
+The following modules are planned and welcome open-source contributions:
 
-## 🛣️ Roadmap
+- Searching Algorithms
+  - Linear Search
+  - Binary Search
+- Arrays
+- Linked Lists
+- Stacks and Queues
+- Trees
+- Graph Algorithms
+- Dynamic Programming
+- Greedy Algorithms
+- Backtracking
 
-- [ ] Searching Algorithms
-- [ ] Arrays
-- [ ] Linked Lists
-- [ ] Stacks & Queues
-- [ ] Trees
-- [ ] Graph Algorithms
-- [ ] Dynamic Programming
-- [ ] Greedy Algorithms
-- [ ] Backtracking
-- [ ] System Design Learning Modules
-
----
+**Note:** These modules are not yet implemented. Their development is open to contributors.
 
 ## 🛠️ Tech Stack
 
-- React
+- React 19
+- JavaScript (ES6+)
 - Vite
 - Tailwind CSS
 - Framer Motion
-- JavaScript (ES6+)
+- React Router
 
----
+## 🚀 Getting Started
 
-## 📌 Project Status
+Follow these steps to run AlgoShelf locally.
 
-🚧 **AlgoShelf V2 is actively under development.**
+### Prerequisites
 
-The Sorting Algorithms module is complete, with additional DSA modules being added incrementally.
+- Node.js (LTS version recommended)
+- npm
+- Git
 
----
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/guptagauri04/AlgoShelf.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd AlgoShelf
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open the local URL displayed in your terminal.
+
+### Build for Production
+
+```bash
+npm run build
+```
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+You can help improve AlgoShelf by:
+
+- Developing new DSA modules.
+- Improving existing visualizations.
+- Fixing bugs and improving responsiveness.
+- Enhancing explanations and documentation.
+- Improving accessibility and user experience.
+
+Before starting work, check the repository's GitHub Issues and coordinate with the project mentor.
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
 ## 📸 Screenshots
 
@@ -113,28 +151,20 @@ The Sorting Algorithms module is complete, with additional DSA modules being add
 
 <img width="648" height="371" alt="pseudocode-synchronisation" src="https://github.com/user-attachments/assets/d23a8149-a51b-4ff9-bd0c-0d6755b389fc" />
 
----
+## 🔭 Future Vision
 
-## ⭐ Future Vision
-
-AlgoShelf aims to become a comprehensive platform for mastering Data Structures and Algorithms through intuitive visual learning, making complex concepts accessible for students, interview preparation, and self-paced learning.
-
----
+AlgoShelf aims to become a comprehensive interactive learning platform for Data Structures and Algorithms, helping students build strong conceptual understanding and prepare for technical interviews.
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## 👩‍💻 Author
 
 **Gauri Gupta**
 
-B.Tech Electrical Engineering (IIoT)
+B.Tech — Internet of Things (IIoT)
 
-Passionate about Software Development, AI, and Data Structures & Algorithms.
+Interested in Software Development, Artificial Intelligence, and Data Structures & Algorithms.
 
----
-
-## ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
+⭐ If you find AlgoShelf useful, consider giving the repository a star!
