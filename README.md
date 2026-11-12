@@ -1,3 +1,4 @@
+<img width="1626" height="888" alt="Homepage" src="https://github.com/user-attachments/assets/b56fb6ca-0556-4a49-bd70-bba5b8b9bbd4" />
 ![React](https://img.shields.io/badge/React-19-blue)
 ![Vite](https://img.shields.io/badge/Vite-8-purple)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-38BDF8)
@@ -129,27 +130,19 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
 ### Home Page
 
-<img width="692" height="771" alt="home-page" src="https://github.com/user-attachments/assets/edf7266d-c2a8-4d50-9567-c53a151756c0" />
+<img width="1626" height="888" alt="Homepage" src="https://github.com/user-attachments/assets/9c8996ec-2562-47e2-8a31-2af9f11339e1" />
 
-### Quick Sort
+### Book Shelf
 
-<img width="972" height="906" alt="quick-sort" src="https://github.com/user-attachments/assets/2f13cc5f-c7ee-4b78-9614-ed9072635bd0" />
+<img width="744" height="848" alt="BookShelf" src="https://github.com/user-attachments/assets/62fe6099-94ef-4f84-a9f2-a5d2e516c4ae" />
 
-### Expandable About Section
+### Sorting Module
 
-<img width="946" height="774" alt="expandable about section" src="https://github.com/user-attachments/assets/e3496c7e-70a7-4f30-bab7-dc4ec5392cf0" />
+<img width="1426" height="941" alt="Sorting Module" src="https://github.com/user-attachments/assets/ddb9ddfc-5e08-4a0c-9699-3a38645763a7" />
 
-### Bubble Sort
+### Quick Sort Visualiser
 
-<img width="628" height="959" alt="bubble-sort" src="https://github.com/user-attachments/assets/ccfa9345-c903-4c87-ba5c-679074076e09" />
-
-### Merge Sort
-
-<img width="656" height="918" alt="merge-sort" src="https://github.com/user-attachments/assets/682fc879-b76b-4340-b2c5-bc08c079ebf7" />
-
-### Pseudocode Synchronization
-
-<img width="648" height="371" alt="pseudocode-synchronisation" src="https://github.com/user-attachments/assets/d23a8149-a51b-4ff9-bd0c-0d6755b389fc" />
+<img width="1210" height="951" alt="Quick Sort Visualiser" src="https://github.com/user-attachments/assets/07da5813-4314-413a-b5d1-6c6f6c181fc2" />
 
 ## 🔭 Future Vision
 
