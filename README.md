@@ -131,7 +131,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
 <img width="1626" height="888" alt="Homepage" src="https://github.com/user-attachments/assets/9c8996ec-2562-47e2-8a31-2af9f11339e1" />
 
-### Book Shelf
+### BookShelf
 
 <img width="1043" height="852" alt="image" src="https://github.com/user-attachments/assets/9afffaa1-d3f6-483c-8175-cca2aa7b0f4d" />
 
