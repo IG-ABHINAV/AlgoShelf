@@ -1,4 +1,3 @@
-<img width="1626" height="888" alt="Homepage" src="https://github.com/user-attachments/assets/b56fb6ca-0556-4a49-bd70-bba5b8b9bbd4" />
 ![React](https://img.shields.io/badge/React-19-blue)
 ![Vite](https://img.shields.io/badge/Vite-8-purple)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-38BDF8)
